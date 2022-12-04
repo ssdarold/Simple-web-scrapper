@@ -1,0 +1,1 @@
+list = ["https://shop-sanequip.ru/smesiteli/grocenberg.html"]
