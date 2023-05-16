@@ -21,7 +21,7 @@ The Web Scraper is a Python script that allows you to scrape price data from var
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/ssdarold/Simple-web-scrapper.git
    
 2. Run the main.py file:
     ```shell
